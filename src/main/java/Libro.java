@@ -15,7 +15,7 @@ public class Libro {
      numPaginas=numPag;
  }
  public void setTitulo(String t){
-     titulo=t;
+     titulo=tit;
  }
  public void setAutor(String aut){
      autor=aut;
