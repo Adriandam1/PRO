@@ -37,5 +37,8 @@ public class Libro {
      System.out.println("Ano= "+ano);
      System.out.println("Paginas= "+numPaginas);
      System.out.println("Valoracion= "+valoracion);
+     
+     
+     
  }
 }
