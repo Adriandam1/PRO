@@ -8,11 +8,11 @@ public class Libro {
  public Libro(){
      
  }
- public Libro(String tit,String aut,int an,short numP){
+ public Libro(String tit,String aut,int anio,short numPag){
      titulo=tit;
      autor=aut;
-     ano=an;
-     numPaginas=numP;
+     ano=anio;
+     numPaginas=numPag;
  }
  public void setTitulo(String t){
      titulo=t;
@@ -20,11 +20,11 @@ public class Libro {
  public void setAutor(String aut){
      autor=aut;
  }
- public void setAno(int an){
-     ano=an;
+ public void setAno(int anio){
+     ano=anio;
  }
- public void setNumPaginas(short numP){
-     numPaginas=numP;
+ public void setNumPaginas(short numPag){
+     numPaginas=numPag;
  }
  public void setValoracion(float val){
      valoracion=val;
