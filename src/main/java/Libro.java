@@ -30,13 +30,18 @@ public class Libro {
      valoracion=val;
  }
  public void amosar(){
-     System.out.println("-----------------");
-     System.out.println("Libros --->");
-     System.out.println("Titulo= "+titulo);
-     System.out.println("Autor= "+autor);
-     System.out.println("Ano= "+ano);
-     System.out.println("Paginas= "+numPaginas);
-     System.out.println("Valoracion= "+valoracion);
+  
+     System.out.println("Libros");
+  
+     System.out.println("Titulo = "+titulo);
+  
+     System.out.println("Autor = "+autor);
+  
+     System.out.println("Ano = "+ano);
+  
+     System.out.println("Paginas = "+numPaginas);
+  
+     System.out.println("Valoracion = "+valoracion);
      
      
  }
