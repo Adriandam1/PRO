@@ -39,6 +39,5 @@ public class Libro {
      System.out.println("Valoracion= "+valoracion);
      
      
-     
  }
 }
